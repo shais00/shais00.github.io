@@ -1,37 +1,249 @@
-## Welcome to GitHub Pages
+<!--A Design by W3layouts
+Author: W3layout
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Shusen Wang</title>
+<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
+<!-- jQuery (necessary JavaScript plugins) -->
+<!-- script src="js/jquery.min.js"></script>
+<!-- Custom Theme files -->
+ <link href="css/dashboard.css" rel="stylesheet">
+<link href="css/style.css" rel='stylesheet' type='text/css' />
 
-You can use the [editor on GitHub](https://github.com/shais00/shais00.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- Custom Theme files -->
+<!--//theme-style-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Shusen Wang" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
+<!-- start menu -->
+  
+</head>
+<body>
+<!-- header -->
+<div class="col-sm-3 col-md-2 sidebar">
+		 <div class="sidebar_top">
+			 <h1>Shusen Wang</h1> 
+			 <img src="images/photo2022.JPG" alt=""/>
+		 </div>
+		<div class="details">
+			 <h3>EMAIL</h3>
+			 <p>ShusenWang AT xiaohongshu DOT com</p>
+		</div>
+		<div class="clearfix"></div>
+</div>
+<!---->
+<link href="css/popuo-box.css" rel="stylesheet" type="text/css" media="all"/>
+<script src="js/jquery.magnific-popup.js" type="text/javascript"></script>
+	<!---//pop-up-box---->			
+<div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+	 <div class="content">
+		 <div class="details_header">
+			 <ul>
+				 <li><a href="index.html"><b>Home</b></a></li>
+				 <li><a href="cv/resume.pdf"><b>CV</b></a></li>
+				 <li><a href="publications.html"><b>Publications</b></a></li>
+				 <li><a href="teaching.html"><b>Teaching</b></a></li>
+				 <li><a href="miscellaneous.html"><b>Miscellaneous</b></a></li>
+			 </ul>
+		 </div>
+		 
+		 <div class="company">
+			 <h3 class="clr1">About Me</h3>
+			 <div class="company_details">
+                I am currently a machine learning engineer & manager at Xiaohongshu, Shanghai. I lead a machine learning team for search and recommendation.
+                Our Shanghai and Beijing offices are hiring ML engineers and interns. 
+                <a href="Hiring.pdf"><font color="#0000FF">Hiring! Click here.</font></a>
+                <br><br>
+                
+                Before joining Xiaohongshu, I was a tenure-track assistant professor at the Department of Computer Science, Stevens Institute of Technology.
+				From 2016 to 2018, I was a postdoc scholar at Department of Statistics, UC Berkeley. I worked with <a href="http://www.stat.berkeley.edu/~mmahoney/"> Michael Mahoney</a>. 
+				In 2011 and 2016, I got both of my doctoral and bachelor's degrees from Zhejiang University, China, where I worked with my advisor <a href="http://www.math.pku.edu.cn/teachers/zhzhang/">Zhihua Zhang</a>.
+                During my doctoral study, I was supported by "<a href="https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/"><em>Microsoft Research Asia Fellowship</em></a>" and "<a href="http://scholarship.baidu.com/"><em>Baidu Scholarship</em></a>", which are (or at least were) the highest fellowships/scholarships in China.
+                <br>
+                <br>
+		 </div>
+		 </div>
+         
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+		 
+		 <div class="education">
+			 <h3 class="clr2">Experience</h3>
+			 <div class="skill_info">
+				<h4>Xiaohongshu (Shanghai), from 12/2021</h4>
+				<p>machine learning engineer and team leader</p>
+			 </div>
+             
+			 <div class="skill_info">
+				<h4>Department of Computer Science, Stevens Institute of Technology, 09/2018---12/2021</h4>
+				<p>tenure-track assistant professor</p>
+			 </div>
+                    
+			 <div class="skill_info">
+				<h4>Department of Statistics, UC Berkeley, 07/2016---06/2018</h4>
+				<p>postdoc researcher, with Michael Mahoney</p>
+			 </div>
+             
+			 <div class="skill_info">
+				<h4>Zhejiang University, Doctor of Engineering, 09/2011---06/2016</h4>
+				<p>College of Computer Science and Techonology</p>
+			 </div>
+             
+			 <div class="skill_info">
+				<h4>Zhejiang University, Bachelor of Engineering, 08/2007---07/2011</h4>
+				<p>College of Computer Science and Techonology</p>
+				<p>Chu Kochen Honors College</p>
+			 </div>			 
+		 </div>
+		 
+		 
+		 
+		 <div class="skills">
+			 <h3 class="clr3">Representative Papers
+			 <span>
+			 [<a href="publications.html">Full List</a>]
+			 [<a href="http://scholar.google.com/citations?user=HAf4pEoAAAAJ&hl=en">Google Scholar</a>]
+			 </span>
+			 </h3>
+			 
+			 <div class="skill_info">
+				<ul>
+                    
+                    
+					<li>
+						<font color="#0000FF">A Bootstrap Method for Error Estimation in Randomized Matrix Multiplication</font>.<br>
+                        Miles E. Lopes, <b>Shusen Wang</b>, Michael W. Mahoney.<br>
+                        <em>Journal of Machine Learning Research</em> (<b>JMLR</b>), 20(39):1-40, 2019.<br>
+					    [<a href="papers/JMLR2019B.pdf">pdf</a>]
+					    [<a href="papers/JMLR2019B.bib">bib</a>]
+					    [<a href="https://arxiv.org/abs/1708.01945">arXiv:1708.01945</a>].
+						<br>
+						<br>
+					</li>
+                    
+                    
+					<li>
+						<font color="#0000FF">Scalable Kernel K-Means Clustering with Nystrom Approximation: Relative-Error Bounds</font>.<br>
+						<b>Shusen Wang</b>, Alex Gittens, and Michael W. Mahoney.<br>
+                        <em>Journal of Machine Learning Research</em> (<b>JMLR</b>), 20(12):1-49, 2019.<br>
+					    [<a href="papers/JMLR2019A.pdf">pdf</a>]
+					    [<a href="papers/JMLR2019A.bib">bib</a>]
+					    [<a href="https://arxiv.org/abs/1706.02803">arXiv:1706.02803</a>]
+						<br>
+						<br>
+					</li>
+                    
+                    
+					<li>
+						<font color="#0000FF">Sketched Ridge Regression: Optimization Perspective, Statistical Perspective, and Model Averaging</font>.<br>
+						<b>Shusen Wang</b>, Alex Gittens, and Michael W. Mahoney.<br>
+                        <em>Journal of Machine Learning Research</em> (<b>JMLR</b>), 18(218):1-50, 2018.<br>
+						A short version has appeared in <em>ICML</em> 2017. (There are errors in the ICML version; please refer to the journal version for the correct results.) <br>
+					    	[<a href="papers/JMLR2018.pdf">pdf</a>]
+                            [<a href="papers/JMLR2018.bib">bib</a>]
+						<br>
+						<br>
+					</li>
+                    
+                    
+					<li>
+						<font color="#0000FF">Towards More Efficient SPSD Matrix Approximation and CUR Matrix Decomposition</font>.<br>
+						<b>Shusen Wang</b>, Zhihua Zhang, and Tong Zhang.<br>
+                        <em>Journal of Machine Learning Research</em> (<b>JMLR</b>), 17(210):1−49, 2016.<br>
+							[<a href="papers/JMLR2016b.pdf">pdf</a>]
+							[<a href="papers/JMLR2016b.bib">bib</a>]
+						<br>
+						<br>
+					</li>
+					
+					<li>
+						<font color="#0000FF">SPSD Matrix Approximation vis Column Selection: Theories, Algorithms, and Extensions</font>.<br>
+						<b>Shusen Wang</b>, Luo Luo, and Zhihua Zhang.<br>
+					    <em>Journal of Machine Learning Research</em> (<b>JMLR</b>), 17(49):1-49, 2016. <br>
+                        Short versions have appeared in <em>AISTATS</em> 2014 and <em>KDD</em> 2014.<br>
+							[<a href="papers/JMLR2016.pdf">pdf</a>]
+							[<a href="papers/JMLR2016.bib">bib</a>]
+						<br>
+						<br>
+					</li>
+					
+					<li>
+					   <font color="#0000FF">Improving CUR Matrix Decomposition and the Nystrom Approximation via Adaptive Sampling</font>.<br>
+						<b>Shusen Wang</b> and Zhihua Zhang. <br>
+						<em>Journal of Machine Learning Research</em> (<b>JMLR</b>), 14: 2729-2769, 2013.<br>
+                        A short version has appeared in <em>NIPS</em> 2012.<br>
+							[<a href="papers/JMLR2013.pdf">pdf</a>]
+							[<a href="papers/JMLR2013.bib">bib</a>]
+						<br>
+						<br>
+					</li>
 
-### Markdown
+					<li>
+						<font color="#0000FF">EP-GIG Priors and Applications in Bayesian Sparse Learning</font>.<br>
+						Zhihua Zhang, <b>Shusen Wang</b>, Dehua Liu, and Michael I. Jordan.<br>
+						<em>Journal of Machine Learning Research</em> (<b>JMLR</b>), 13: 2031-2061, 2012.<br>
+							[<a href="papers/JMLR2012.pdf">pdf</a>]
+							[<a href="papers/JMLR2012.bib">bib</a>]
+						<br>
+						<br>
+					</li>
+                
+                    
+					<li>
+						<font color="#0000FF">GIANT: Globally Improved Approximate Newton Method for Distributed Optimization</font>.<br>
+						<b>Shusen Wang</b>, Farbod Roosta-Khorasani, Peng Xu, and Michael W. Mahoney.<br>
+                        In <em>32nd Conference on Neural Information Processing Systems</em> (<b>NIPS</b>), 2018.<br>
+                        [<a href="papers/NIPS2018.pdf">pdf</a>] 
+                        [<a href="papers/NIPS2018.bib">bib</a>] 
+                        [<a href="https://arxiv.org/abs/1709.03528">long version</a>]
+                        [<a href="https://github.com/wangshusen/SparkGiant">Spark Code</a>].
+						<br>
+						<br>
+					</li>
+                    
+					
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# shais Mohammed Khan
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shais00/shais00.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+				</ul>
+			
+			 </div>			 
+		 </div>
+		 
+		 
+         
+         
+         
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=11487137; 
+var sc_invisible=1; 
+var sc_security="94648ebe"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="web counter"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="//c.statcounter.com/11487137/0/94648ebe/1/" alt="web
+counter"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+         
+		 <div class="copywrite">
+		 <a href="http://info.flagcounter.com/jqBO"><img src="http://s01.flagcounter.com/count/jqBO/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_8/viewers_0/labels_0/pageviews_0/flags_0/" alt="Flag Counter" border="0"></a>
+			<br><br>
+			 <p>Last update: 2022-07-19</p>
+		 </div>
+	 </div>
+</div>
+<!---->
+</body>
+</html>
