@@ -1,3 +1,12 @@
 theme: jekyll-theme-minimal
 title: Shais Mohammed Khan
 description: Bookmark this to keep an eye on my project updates!
+ gem install bundler jekyll
+
+  jekyll new my-awesome-site
+
+  cd my-awesome-site
+
+  bundle exec jekyll serve
+
+# => Now browse to http://localhost:4000
