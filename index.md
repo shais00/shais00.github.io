@@ -19,7 +19,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!--//theme-style-->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Shusen Wang" />
+<meta name="keywords" content="Shais khan" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
@@ -35,7 +35,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		 </div>
 		<div class="details">
 			 <h3>EMAIL</h3>
-			 <p>ShusenWang AT xiaohongshu DOT com</p>
+			 <p>Shais Mohammed Khan u DOT com</p>
 		</div>
 		<div class="clearfix"></div>
 </div>
@@ -58,15 +58,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		 <div class="company">
 			 <h3 class="clr1">About Me</h3>
 			 <div class="company_details">
-                I am currently a machine learning engineer & manager at Xiaohongshu, Shanghai. I lead a machine learning team for search and recommendation.
-                Our Shanghai and Beijing offices are hiring ML engineers and interns. 
+                I’m currently working on full stack and AI ,cloud applications along with robotic software development for autonomous driving inclusive of computer     vision and Python projects. 
                 <a href="Hiring.pdf"><font color="#0000FF">Hiring! Click here.</font></a>
                 <br><br>
                 
-                Before joining Xiaohongshu, I was a tenure-track assistant professor at the Department of Computer Science, Stevens Institute of Technology.
-				From 2016 to 2018, I was a postdoc scholar at Department of Statistics, UC Berkeley. I worked with <a href="http://www.stat.berkeley.edu/~mmahoney/"> Michael Mahoney</a>. 
-				In 2011 and 2016, I got both of my doctoral and bachelor's degrees from Zhejiang University, China, where I worked with my advisor <a href="http://www.math.pku.edu.cn/teachers/zhzhang/">Zhihua Zhang</a>.
-                During my doctoral study, I was supported by "<a href="https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/"><em>Microsoft Research Asia Fellowship</em></a>" and "<a href="http://scholarship.baidu.com/"><em>Baidu Scholarship</em></a>", which are (or at least were) the highest fellowships/scholarships in China.
+                 <a href="http://www.stat.berkeley.edu/~mmahoney/"> Michael Mahoney</a>. 
+				I <a href="http://www.math.pku.edu.cn/teachers/zhzhang/">Zhihua Zhang</a>.
+                "<a href="https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/"><em>Microsoft Research Asia Fellowship</em></a>" and "<a href="http://scholarship.baidu.com/"><em>Baidu Scholarship</em></a>", which are (or at least were) the highest fellowships/scholarships in China.
                 <br>
                 <br>
 		 </div>
@@ -77,7 +75,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		 <div class="education">
 			 <h3 class="clr2">Experience</h3>
 			 <div class="skill_info">
-				<h4>Xiaohongshu (Shanghai), from 12/2021</h4>
+				<h4>Upwork, from 12/2021</h4>
 				<p>machine learning engineer and team leader</p>
 			 </div>
              
