@@ -30,7 +30,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!-- header -->
 <div class="col-sm-3 col-md-2 sidebar">
 		 <div class="sidebar_top">
-			 <h1>Shusen Wang</h1> 
+			 <h1>g</h1> 
 			 <img src="images/photo2022.JPG" alt=""/>
 		 </div>
 		<div class="details">
